@@ -1,0 +1,25 @@
+{
+  "name": "google-sheets-with-pillarsjs",
+  "version": "0.0.1",
+  "description": "Example that shows how to read a public google sheets with Pillarsjs including routes and templates",
+  "main": "app.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UlisesGascon/Pillars-Mola.git"
+  },
+  "keywords": [
+    "pillarsjs",
+    "pillars"
+  ],
+  "author": "Ulises Gascón",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/UlisesGascon/Pillars-Mola/issues"
+  },
+  "homepage": "https://github.com/UlisesGascon/Pillars-Mola#readme",
+  "dependencies": {
+    "jade": "1.11.0",
+    "pillars": "0.3.2",
+    "scheduled": "0.4.4"
+  }
+}
