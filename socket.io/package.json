@@ -1,0 +1,26 @@
+{
+  "name": "sockets.io-chat-with-pillarsjs",
+  "version": "0.0.1",
+  "description": "Example that shows how to create a very simple chat aplicacion with Socket.IO and Pillarsjs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pillarsjs/pillars.examples.git"
+  },
+  "keywords": [
+    "pillarsjs"
+  ],
+  "author": "Ulises Gascón",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pillarsjs/pillars.examples/issues"
+  },
+  "homepage": "https://github.com/pillarsjs/pillars.examples#readme",
+  "dependencies": {
+    "pillars": "^0.3.2",
+    "socket.io": "^1.4.6"
+  }
+}
