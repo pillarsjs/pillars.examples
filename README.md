@@ -13,11 +13,12 @@ We will include examples that shows not only the mechanics and the options that 
 ## Available Examples 
 - **Integration with Cloud Services**
   - [Google Sheets](google-sheets). Read, download periodically and create rutes based on the sheets columns
+- **Integration with Third-party Libraries**
+  - [WebSockets Chat example with Socket.IO](https://github.com/pillarsjs/pillars.examples/tree/master/socket.io)
 
 ## Coming Soon...
 - **Under Development**
   - [FullConctat API + Firebase Example](https://github.com/pillarsjs/pillars.examples/issues/1)
-  - [WebSockets Chat example with Socket.IO](https://github.com/pillarsjs/pillars.examples/issues/2)
 
 
 ## Request Examples & Support
