@@ -5,7 +5,7 @@
   "main": "app.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UlisesGascon/Pillars-Mola.git"
+    "url": "git+https://github.com/pillarsjs/pillars.examples.git"
   },
   "keywords": [
     "pillarsjs",
@@ -14,9 +14,9 @@
   "author": "Ulises Gascón",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/UlisesGascon/Pillars-Mola/issues"
+    "url": "https://github.com/pillarsjs/pillars.examples/issues"
   },
-  "homepage": "https://github.com/UlisesGascon/Pillars-Mola#readme",
+  "homepage": "https://github.com/pillarsjs/pillars.examples#readme",
   "dependencies": {
     "jade": "1.11.0",
     "pillars": "0.3.2",
