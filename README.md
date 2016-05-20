@@ -14,8 +14,11 @@ We will include examples that shows not only the mechanics and the options that 
 - **Integration with Cloud Services**
   - [Google Sheets](google-sheets). Read, download periodically and create rutes based on the sheets columns
 - **Integration with Third-party Libraries**
-  - [WebSockets Chat example with Socket.IO](https://github.com/pillarsjs/pillars.examples/tree/master/socket.io)
-
+  - [WebSockets](https://github.com/pillarsjs/pillars.examples/tree/master/socket.io) Chat example with Socket.IO
+- **Others**
+  - [MovieFire](https://github.com/UlisesGascon/Simple-API-REST-with-Firebase-and-IMBD) A simple interface and API Rest to save/update/delete/retrive your favorite movies using Firebase as Database. Also the data is enriched with [OMBD Api](https://github.com/misterhat/omdb)
+    - Note: You can compare [MovieFire v1.0.0](https://github.com/UlisesGascon/Simple-API-REST-with-Firebase-and-IMBD/releases/tag/v1.0.0) with [MovieFire v2.0.0](https://github.com/UlisesGascon/Simple-API-REST-with-Firebase-and-IMBD/releases/tag/v2.0.0) as the first was build with Express and the second verison was migrated to Pillars.
+    - [Demo](http://moviefire.herokuapp.com/) Hosted in a Heroku free plan.
 ## Coming Soon...
 - **Under Development**
   - [FullConctat API + Firebase Example](https://github.com/pillarsjs/pillars.examples/issues/1)
