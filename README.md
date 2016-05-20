@@ -19,6 +19,7 @@ We will include examples that shows not only the mechanics and the options that 
   - [MovieFire](https://github.com/UlisesGascon/Simple-API-REST-with-Firebase-and-IMBD) A simple interface and API Rest to save/update/delete/retrive your favorite movies using Firebase as Database. Also the data is enriched with [OMBD Api](https://github.com/misterhat/omdb)
     - Note: You can compare [MovieFire v1.0.0](https://github.com/UlisesGascon/Simple-API-REST-with-Firebase-and-IMBD/releases/tag/v1.0.0) with [MovieFire v2.0.0](https://github.com/UlisesGascon/Simple-API-REST-with-Firebase-and-IMBD/releases/tag/v2.0.0) as the first was build with Express and the second verison was migrated to Pillars.
     - [Demo](http://moviefire.herokuapp.com/) Hosted in a Heroku free plan.
+
 ## Coming Soon...
 - **Under Development**
   - [FullConctat API + Firebase Example](https://github.com/pillarsjs/pillars.examples/issues/1)
