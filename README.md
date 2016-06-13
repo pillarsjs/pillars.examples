@@ -11,6 +11,8 @@ We will include examples that shows not only the mechanics and the options that 
 
 
 ## Available Examples 
+- **Starting point**
+  - [Bootstrap Starter Template](bootstrap-starter-template). Easy example to start with [Bootstrap](http://getbootstrap.com/), Jade and Pillarsjs 
 - **Integration with Cloud Services**
   - [Google Sheets](google-sheets). Read, download periodically and create rutes based on the sheets columns
 - **Integration with Third-party Libraries**
