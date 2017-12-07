@@ -9,8 +9,22 @@ Here you can find some examples in order to improve your understanding about thi
 
 We will include examples that shows not only the mechanics and the options that Pillars offers to you. Also... we will show you how to integrate Pillars with other resources and libraries like DBs, Cloud Services, Third-Party Libraries, etc...
 
+## The Basics
 
-## Available Examples 
+1. Hello World
+2. Project configuration
+3. Service configuration
+4. New HTTP Service in a different port
+5. Create a controller to manage just one port
+6. Serve static files
+7. Handelbars template
+8. Non-persistent session 
+9. Video streaming
+10. Send JSON
+11. GET & POST
+12. Parameters in routes /:var/:*rest
+
+## MoreExamples
 - **Starting point**
   - [Bootstrap Starter Template](bootstrap-starter-template). Easy example to start with [Bootstrap](http://getbootstrap.com/), Jade and Pillarsjs 
 - **Integration with Cloud Services**
