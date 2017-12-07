@@ -1,0 +1,14 @@
+doctype html
+html(lang=gw.language)
+	// By default is available in 'locals': 'gw', 'i18n (gw.i18n alias)' and 'project'.
+	head
+		title Auto rendered template
+		meta(charset="utf-8")
+		link(rel='stylesheet', href='//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css')
+
+	body
+		.container
+			header
+				h1=gw.host+':'+gw.port
+			#page
+				pre=JSON.decycled(gw,2,'  ')

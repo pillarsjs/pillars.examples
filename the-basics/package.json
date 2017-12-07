@@ -1,0 +1,19 @@
+{
+  "name": "example",
+  "description": "Directorio estático",
+  "version": "0.0.1",
+  "author": {
+      "name": "Chelo Quilón Gomez",
+      "email": "cheloq@gmail.com"
+  },
+  "homepage": "https://github.com/lilxelo/betabeers-huelva",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/lilxelo/betabeers-huelva"
+  },
+  "dependencies": {
+    "pillars": "*"
+  },
+  "readmeFilename": "README.md",
+  "license": "MIT"
+}
