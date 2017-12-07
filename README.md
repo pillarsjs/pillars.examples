@@ -11,6 +11,8 @@ We will include examples that shows not only the mechanics and the options that 
 
 ## The Basics
 
+**This section is partially ready. Please read & suscribe to [#4](https://github.com/pillarsjs/pillars.examples/issues/4)**
+
 1. Hello World
 2. Project configuration
 3. Service configuration
